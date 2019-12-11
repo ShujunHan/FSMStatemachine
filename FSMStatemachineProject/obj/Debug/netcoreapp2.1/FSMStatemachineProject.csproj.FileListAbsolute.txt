@@ -1,0 +1,11 @@
+E:\VisualStudioProject\FSMStatemachineProject\FSMStatemachineProject\bin\Debug\netcoreapp2.1\FSMStatemachineProject.deps.json
+E:\VisualStudioProject\FSMStatemachineProject\FSMStatemachineProject\bin\Debug\netcoreapp2.1\FSMStatemachineProject.runtimeconfig.json
+E:\VisualStudioProject\FSMStatemachineProject\FSMStatemachineProject\bin\Debug\netcoreapp2.1\FSMStatemachineProject.runtimeconfig.dev.json
+E:\VisualStudioProject\FSMStatemachineProject\FSMStatemachineProject\bin\Debug\netcoreapp2.1\FSMStatemachineProject.dll
+E:\VisualStudioProject\FSMStatemachineProject\FSMStatemachineProject\bin\Debug\netcoreapp2.1\FSMStatemachineProject.pdb
+E:\VisualStudioProject\FSMStatemachineProject\FSMStatemachineProject\obj\Debug\netcoreapp2.1\FSMStatemachineProject.csprojAssemblyReference.cache
+E:\VisualStudioProject\FSMStatemachineProject\FSMStatemachineProject\obj\Debug\netcoreapp2.1\FSMStatemachineProject.csproj.CoreCompileInputs.cache
+E:\VisualStudioProject\FSMStatemachineProject\FSMStatemachineProject\obj\Debug\netcoreapp2.1\FSMStatemachineProject.AssemblyInfoInputs.cache
+E:\VisualStudioProject\FSMStatemachineProject\FSMStatemachineProject\obj\Debug\netcoreapp2.1\FSMStatemachineProject.AssemblyInfo.cs
+E:\VisualStudioProject\FSMStatemachineProject\FSMStatemachineProject\obj\Debug\netcoreapp2.1\FSMStatemachineProject.dll
+E:\VisualStudioProject\FSMStatemachineProject\FSMStatemachineProject\obj\Debug\netcoreapp2.1\FSMStatemachineProject.pdb
