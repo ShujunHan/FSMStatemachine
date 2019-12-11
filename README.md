@@ -1,4 +1,4 @@
-# <Center>FSMStatemachine
+# <Center>FSMStateMachine
 #### 抽象类State
 
 ```
